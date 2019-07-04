@@ -1,0 +1,25 @@
+{
+  "name": "template-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayif03/Template-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayif03/Template-CLI/issues"
+  },
+  "homepage": "https://github.com/nayif03/Template-CLI#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
