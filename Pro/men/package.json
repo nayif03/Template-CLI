@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "description": "node project - file system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start" : "node index.js"
+  },
+  "author": "Nayif03",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
